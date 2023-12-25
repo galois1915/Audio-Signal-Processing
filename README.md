@@ -1,4 +1,4 @@
-# audio-Signal-Processing
+# Audio-Signal-Processing
 
 ## Audio Data
 ## Transforming Data
